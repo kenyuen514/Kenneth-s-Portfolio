@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kenneth's Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Kenneth</h1>
+        <p>Aspiring Programmer | Web Development Diploma Student</p>
+    </header>
+    
+    <section class="about">
+        <h2>About Me</h2>
+        <p>Hi, I'm Kenneth from the UK. I want to become a programmer and I'm currently studying for a Web Development Diploma. I'm learning **JavaScript, HTML, CSS, and SQL**. Additionally, I'm self-studying **AWS** to expand my knowledge.</p>
+    </section>
+    
+    <section class="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>JavaScript</li>
+            <li>SQL</li>
+            <li>AWS (Self-Studying)</li>
+        </ul>
+    </section>
+    
+    <section class="contact">
+        <h2>Contact</h2>
+        <p>Email: <a href="mailto:kenneth@example.com">kenneth@example.com</a></p>
+        <p>GitHub: <a href="#">github.com/kenneth</a></p>
+    </section>
+</body>
+</html>
